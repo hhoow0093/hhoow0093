@@ -21,7 +21,7 @@
 ## 🚀 GitHub Stats
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-  [![hhoow0093's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhoow0093)](https://github.com/anuraghazra/github-readme-stats)
+    <img src="https://github-readme-stats.vercel.app/api?username=hhoow0093&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" style="width: 49%;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hhoow0093&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" style="width: 49%;"/>
 </div>
 
