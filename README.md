@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! I'm Howard</h2>
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=hhoow0093)
+
 🎓 I'm a Computer Science student at **Universitas Multimedia Nusantara**  
 💻 Passionate about building software, solving problems, and exploring tech!
 
